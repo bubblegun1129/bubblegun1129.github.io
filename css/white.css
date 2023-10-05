@@ -528,7 +528,7 @@ a {
   box-shadow: none;
 }
 .simple-post-title {
-  margin-bottom: 2px;
+  margin-bottom: 4px;
   font-family: 'Noto Serif SC', serif;
   color: var(--color-text-main);
   font-size: 1.3em;
